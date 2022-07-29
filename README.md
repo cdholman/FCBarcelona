@@ -1,1 +1,1 @@
-# This is a project that I am using to record data for my favorite football team FC Barcelona!
+# This is a project that I am using to record data for LA Liga, home of my favorite team FC Barcelona. The dataset that I used can be found at https://www.kaggle.com/datasets/fadilparves/la-liga-detail-match-events.
